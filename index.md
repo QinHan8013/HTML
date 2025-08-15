@@ -1,10 +1,3 @@
-这是首页，你可以用 **Markdown** 格式编写内容。
-
-## 特性
-- **简单**：直接用 GitHub Pages 部署
-- **美观**：Jekyll 主题自动渲染
-- **免费**：托管在 GitHub
-
 
 [电路分析](./docs/physics/电路分析.md)
 [模拟电路](./docs/physics/模拟电路.md)
