@@ -5,4 +5,4 @@
 - **美观**：Jekyll 主题自动渲染
 - **免费**：托管在 GitHub
 
-[数学](./docs/模拟电路.md)
+[数学](./docs/physics/数字电路.md)
