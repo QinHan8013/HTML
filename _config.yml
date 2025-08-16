@@ -1,4 +1,13 @@
-title: 文档站
-description: 
-theme: Minimal Mistakes
+title: "我的博客"
+description: "学习 & 分享"
+theme: minimal-mistakes-jekyll
+url: "https://yourname.github.io"
 markdown: kramdown
+author:
+  name: "Adam"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
