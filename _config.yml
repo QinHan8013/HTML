@@ -1,6 +1,6 @@
 title: "我的博客"
 description: "学习 & 分享"
-theme: minimal
+theme: minima
 url: "https://yourname.github.io"
 markdown: kramdown
 author:
